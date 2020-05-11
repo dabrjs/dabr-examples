@@ -1,0 +1,11 @@
+{
+  "name": "dabr-examples",
+  "version": "0.0.0-development",
+  "main": "index.js",
+  "repository": "git@github.com:dabrjs/dabr.git",
+  "author": "<luizss@dabrjs.org>",
+  "license": "MIT",
+  "dependencies": {
+    "dabr": "^1.1.0"
+  }
+}
